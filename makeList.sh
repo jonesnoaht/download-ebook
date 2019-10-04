@@ -1,6 +1,6 @@
 #/bin/bash
 
-# 2043
+# There are 2043 pages
 
 echo "" >> list.txt;
 for i in {1..2043}
